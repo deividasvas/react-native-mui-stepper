@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "ESNext",
+    "jsx": "react",
+    "declaration": true,
+    "declarationDir": "dist",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "strict": true,
+    "baseUrl": "../"
+  },
+  "include": ["../Stepper.tsx", "../Step.tsx", "../StepLabel.tsx", "../StepConnector.tsx", "index.ts"]
+} 

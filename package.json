@@ -1,0 +1,25 @@
+{
+  "name": "react-native-mui-stepper",
+  "version": "1.0.0",
+  "description": "Урезанные Stepper-компоненты для React Native в стиле Material-UI (MUI)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deividasvas/react-native-mui-stepper.git"
+  },
+  "author": "Deividas Vasilevskis <vasilevskis.deividas@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "stepper",
+    "mui",
+    "material-ui",
+    "wizard",
+    "steps"
+  ],
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.68.0"
+  }
+}
